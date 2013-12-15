@@ -1,7 +1,7 @@
 " Vim syntax file
-" Language: Zorq
+" Language: Dorq
 " Maintainer: Gennadiy Filatov
-" Latest Revision: 14 December 2013
+" Latest Revision: 15 December 2013
 
 if exists("b:current_syntax")
   finish
