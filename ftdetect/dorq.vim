@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.pit set filetype=dorq
+au BufRead,BufNewFile *.dorq set filetype=dorq
