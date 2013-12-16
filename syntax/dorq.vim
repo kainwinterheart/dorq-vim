@@ -7,7 +7,7 @@ if exists("b:current_syntax")
   finish
 endif
 
-syn keyword dorqKeyword array hash true false let defun
+syn keyword dorqKeyword array hash true false let defun lambda
 
 syn region  dorqString		start=+"+ skip=+\\\\\|\\"+ end=+"+
 
